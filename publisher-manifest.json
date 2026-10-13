@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2b1683d6cbf1c7b6d3d45775",
+  "owner": "wfcywcta",
+  "repo": "page-e1eb639229d4df1cedc020c3",
+  "title": "clashmeta",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e1eb639229d4df1cedc020c3",
+      "a": "clashmeta",
+      "b": "",
+      "entity": "clashmeta",
+      "brand": "clashmeta",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d16630228a972d0af685ac173f9abcbd0c95be5a92e2f2c466931b5dc5fee685",
+      "content": {
+        "keyword1": "clashmeta",
+        "keyword2": "",
+        "primary_entity": "clashmeta",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmeta机场提供优质的VPN加速器服务，Clash Meta客户端下载，基础版¥15/月起，旗舰版35元/月，团队版85元/月。支持多设备，极速流量解锁流媒体。官方正版下载入口。",
+          "AI_DESCRIPTION": "clashmeta机场提供优质的VPN加速器服务，Clash Meta客户端下载，基础版¥15/月起，旗舰版35元/月，团队版85元/月。支持多设备，极速流量解锁流媒体。官方正版下载入口。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            line-height: 1.6;\n            margin: 0;\n            padding: 0;\n            background: #0A2540;\n            color: #E0E0E0;\n        }\n        header {\n            background: #0A2540;\n            padding: 1rem;\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        nav {\n            max-width: 1200px;\n            margin: 0 auto;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: #00D4FF;\n        }\n        .nav-links {\n            display: flex;\n            gap: 2rem;\n        }\n        .nav-links a {\n            color: white;\n            text-decoration: none;\n            font-size: 1rem;\n        }\n        .hero {\n            background: linear-gradient(to right, #0A2540, #112E4A);\n            padding: 4rem 0;\n            text-align: center;\n            color: white;\n        }\n        .hero-content {\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        h1 {\n            font-size: 2.5rem;\n            margin-bottom: 1rem;\n        }\n        .cta-button {\n            background: #00D4FF;\n            color: #0A2540;\n            padding: 0.8rem 2rem;\n            border: none;\n            border-radius: 4px;\n            font-size: 1.1rem;\n            cursor: pointer;\n            font-weight: bold;\n        }\n        .cta-button:hover {\n            background: #0099CC;\n        }\n        section {\n            padding: 3rem 0;\n        }\n        section:nth-child(even) {\n            background: #112E4A;\n        }\n        section:nth-child(odd) {\n            background: #0A2540;\n        }\n        .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 2rem;\n        }\n        h2 {\n            font-size: 2rem;\n            margin-bottom: 1.5rem;\n            color: #00D4FF;\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.5rem;\n        }\n        .plan-card {\n            background: #112E4A;\n            border: 2px solid #00D4FF;\n            border-radius: 8px;\n            padding: 1.5rem;\n            transition: transform 0.3s;\n        }\n        .plan-card:hover {\n            transform: translateY(-5px);\n        }\n        .plan-card.featured {\n            border-color: #FF6B00;\n            background: #1A3A5C;\n        }\n        .price {\n            font-size: 1.5rem;\n            font-weight: bold;\n            color: #00D4FF;\n        }\n        .plan-features {\n            list-style: none;\n            padding: 0;\n        }\n        .plan-features li {\n            padding: 0.5rem 0;\n            border-bottom: 1px solid #334466;\n        }\n        .plan-features li:last-child {\n            border-bottom: none;\n        }\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 2rem 0;\n            background: #112E4A;\n        }\n        th, td {\n            padding: 1rem;\n            text-align: left;\n            border-bottom: 1px solid #334466;\n        }\n        th {\n            background: #00D4FF;\n            color: #0A2540;\n            font-weight: bold;\n        }\n        tr:nth-child(even) {\n            background: #1A3A5C;\n        }\n        .featured-row {\n            background: #1A3A5C;\n        }\n        .faq {\n            background: #112E4A;\n        }\n        details {\n            margin-bottom: 1rem;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            padding: 1rem;\n            background: #00D4FF;\n            color: #0A2540;\n            border-radius: 4px;\n        }\n        summary:hover {\n            background: #0099CC;\n        }\n        footer {\n            background: #0A2540;\n            padding: 2rem 0;\n            text-align: center;\n            color: #888;\n        }\n        .footer-content {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 2rem;\n        }\n        .footer-links {\n            display: flex;\n            justify-content: center;\n            gap: 2rem;\n            margin-bottom: 1rem;\n        }\n        .footer-links a {\n            color: #00D4FF;\n            text-decoration: none;\n        }\n        @media (max-width: 768px) {\n            .nav-links {\n                flex-direction: column;\n                gap: 1rem;\n            }\n            .hero-content h1 {\n                font-size: 2rem;\n            }\n            .plans-grid {\n                grid-template-columns: 1fr;\n            }\n            section {\n                padding: 2rem 0;\n            }\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <div class=\"logo\">clashmeta</div>\n            <div class=\"nav-links\">\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#download\">下载</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <section class=\"hero\">\n            <div class=\"container\">\n                <div class=\"hero-content\">\n                    <h1>clashmeta 机场</h1>\n                    <p>稳定网络加速 | Clash Meta 客户端下载 | 官方正版</p>\n                    \n                </div>\n            </div>\n        </section>\n        <section>\n            <div class=\"container\">\n                <h2>品牌简介</h2>\n                <p>clashmeta 是一款专业的网络加速服务，提供基于 Clash Meta 协议的高速节点池。无论您是个人用户还是企业团队，我们都致力于为您提供安全、稳定、快速的网络加速体验。支持多种设备在线，解锁全球流媒体内容。</p>\n            </div>\n        </section>\n        <section>\n            <div class=\"container\">\n                <h2>套餐对比</h2>\n                <div class=\"plans-grid\">\n                    <div class=\"plan-card\">\n                        <h3>基础版</h3>\n                        <p class=\"price\">¥15/月</p>\n                        <p>按年付仅需 ¥150/年</p>\n                        <ul class=\"plan-features\">\n                            <li>每月 100GB 极速流量</li>\n                            <li>支持 3 台设备同时在线</li>\n                            <li>解锁基础流媒体</li>\n                            <li>普通线路节点池</li>\n                        </ul>\n                    </div>\n                    <div class=\"plan-card featured\">\n                        <h3>旗舰版</h3>\n                        <p class=\"price\">¥35/月</p>\n                        <p>按年付仅需 ¥350/年</p>\n                        <ul class=\"plan-features\">\n                            <li>每月 300GB 极速流量</li>\n                            <li>支持 5 台设备同时在线</li>\n                            <li>全节点原生流媒体解锁</li>\n                            <li>IPLC 专线游戏加速优化</li>\n                            <li>7x24 优先工单支持</li>\n                        </ul>\n                    </div>\n                    <div class=\"plan-card\">\n                        <h3>团队版</h3>\n                        <p class=\"price\">¥85/月</p>\n                        <p>按年付仅需 ¥850/年</p>\n                        <ul class=\"plan-features\">\n                            <li>每月 1000GB 极速流量</li>\n                            <li>支持 20 台设备同时在线</li>\n                            <li>VIP 专属高带宽节点</li>\n                            <li>支持企业定制路由</li>\n                            <li>专属客户经理服务</li>\n                        </ul>\n                    </div>\n                </div>\n            </div>\n        </section>\n        <section>\n            <div class=\"container\">\n                <h2>使用场景</h2>\n                <p>clashmeta 适用于各种网络需求：</p>\n                <ul>\n                    <li>家庭多人在线游戏和视频通话</li>\n                    <li>企业远程办公和数据传输</li>\n                    <li>出国旅行时的网络加速</li>\n                    <li>日常浏览和下载加速</li>\n                </ul>\n            </div>\n        </section>\n        <section>\n            <div class=\"container\">\n                <h2>操作说明</h2>\n                <ol>\n                    <li>访问官网点击下载客户端</li>\n                    <li>根据套餐选择订阅配置</li>\n                    <li>安装后导入配置信息</li>\n                    <li>选择节点连接加速</li>\n                </ol>\n                <p>详细步骤请查看客户端帮助文档。</p>\n            </div>\n        </section>\n        <section id=\"download\">\n            <div class=\"container\">\n                <h2>官方客户端下载</h2>\n                <p>欢迎下载 clshmeta 官方客户端，开始您的加速之旅：</p>\n                <div>\n                    \n                </div>\n                <p>支持 Windows / macOS / Android / iOS 平台</p>\n            </div>\n        </section>\n        <section class=\"faq\">\n            <div class=\"container\">\n                <h2>常见问题 FAQ</h2>\n                <details>\n                    <summary>如何下载 clshmeta 客户端？</summary>\n                    <p>访问官网首页，点击“立即下载”按钮，即可获取最新版本的 Clash Meta 客户端。支持 Windows、macOS、Android 和 iOS 平台。</p>\n                </details>\n                <details>\n                    <summary>clashmeta 支持哪些设备？</summary>\n                    <p>基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台设备同时在线。您可以根据需求选择合适套餐。</p>\n                </details>\n                <details>\n                    <summary>流量是多少？如何计算？</summary>\n                    <p>每月流量是基于日结算的。旗舰版每月 300GB，团队版 1000GB。超出部分可续费或升级。</p>\n                </details>\n                <details>\n                    <summary>支持流媒体解锁吗？</summary>\n                    <p>基础版解锁基础流媒体，旗舰版和团队版提供全节点原生流媒体解锁，包括 Netflix、YouTube 等平台。</p>\n                </details>\n                <details>\n                    <summary>如何选择适合的套餐？</summary>\n                    <p>个人用户推荐基础版或旗舰版，企业团队推荐团队版。旗舰版性价比最高，适合大多数用户。</p>\n                </details>\n            </div>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <div class=\"footer-content\">\n            <div class=\"footer-links\">\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#download\">客户端下载</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n            <p>clashmeta 官方下载 | 隐私保护 | 安全加速</p>\n            <p>© 2024 clashmeta 机场 版权所有</p>\n        </div>\n    </footer>\n\n",
+          "hash": "6c8dbbab4f38aa15e571ef5f9cfabf7a3276ea65e556007dd4f7170222cfa808",
+          "seo": {
+            "title": "clashmeta机场 | 官网 | VPN加速器 客户端下载",
+            "keywords": "clashmeta机场, vpn加速器, 客户端下载, 官网, clashmeta, 网络加速",
+            "description": "clashmeta机场提供优质的VPN加速器服务，Clash Meta客户端下载，基础版¥15/月起，旗舰版35元/月，团队版85元/月。支持多设备，极速流量解锁流媒体。官方正版下载入口。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ipuswrg.cn",
+    "host": "p-9957e43444.ipuswrg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "4a9f719d7272b17891c0efc8a1727c477a9dff8ed7f03b49ae925a4b55f1ad00",
+    "sitemap.xml": "52606d71ac1cb246746910d98ffc360dd96cd0378c1cac873677bfa59ef444c2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0f45a979fd147c90e0f4b6a708aa07ee4088536d2f3cb7916b2646f9725680f8",
+    "robots.txt": "6b0b5c10998d288c7e0cd2a4165b34bb5bc97449689c3de1cf3a0feb434f0a56",
+    "9fe879e0422198b097e574a9763968d7.txt": "128ab67f0b90279fb619b004d8835b7c4227240149421789b234cb99d33d3791"
+  },
+  "revision": "54106288639a563776b8e8f716866cab8d21247f00bed70a91a297d3c0355bd0"
+}
